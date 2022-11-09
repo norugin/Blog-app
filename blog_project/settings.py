@@ -25,7 +25,7 @@ SECRET_KEY = 'vlm%=uyv3fe&o-9oozl591pjo&ci!ftqir2@weu^pehjj!vtyd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
